@@ -1,0 +1,18 @@
+h1{
+    color: rgba(128, 62, 18, 0.774);
+}
+
+h2{
+    font-size: 40px;
+}
+
+h3{
+    font-size: 20px;
+}
+button:hover{
+    cursor: pointer;
+}
+button{
+    border-radius: 5px;
+    background-color: black;
+}

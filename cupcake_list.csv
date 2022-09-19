@@ -1,0 +1,6 @@
+flavor,price,sprinkled,sprinkles,wait_time
+Vanilla,2.99,True,['M&Ms'],10
+Chocolate,1.99,True,['Mint'],30
+Strawberry,3.99,False,[],20
+Blueberry,5.49,True,['Raisins'],5
+Butter,2.49,False,[],4  
